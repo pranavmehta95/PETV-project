@@ -14,7 +14,7 @@ public class PersonalExpenseTracker extends JFrame {
     private JTable expenseTable;
     private DefaultTableModel tableModel;
     private JComboBox<String> categoryComboBox;
-    private static final Color PRIMARY_COLOR = new Color(75, 119, 190);  // Rich blue
+    private static final Color PRIMARY_COLOR = new Color(138, 43, 226);  // Rich violet
     private static final Color SECONDARY_COLOR = new Color(92, 184, 92);  // Fresh green
     private static final Color BACKGROUND_COLOR = new Color(245, 245, 250);  // Soft light purple
     private static final Color TEXT_COLOR = new Color(51, 51, 51);  // Dark gray
